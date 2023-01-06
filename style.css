@@ -1,0 +1,25 @@
+body {
+    background-color: #F0F0F0;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  }
+  
+  .card-title
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #212121;
+    }
+    
+    .card-text {
+    font-size: 18px;
+    color: #757575;
+    }
+    
+    audio {
+    width: 100%;
+    }
+    
